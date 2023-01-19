@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0 2px;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+html{
+    padding: 0;
+}
+
+h1 {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-image: url("../media/image1.jpeg");
+    text-align: center;
+    font-size: 100px;
+    color: khaki;
+  }
+
+.section_img {
+    margin-top: 15px;
+    display: block;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.pricing {
+    color: blue;
+}
+
+#brushes {
+    margin-top: 180px;
+    font-size: 30px;
+    width: 100%;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    font-size: 30px;
+    width: 100%;
+    color: white;
+    background-color: lightcoral;
+}
+
+#paint {
+    font-size: 30px;
+    width: 100%;
+    color: white;
+    background-color: skyblue;
+}
+
+p{
+    margin-top: 15px;;
+}
